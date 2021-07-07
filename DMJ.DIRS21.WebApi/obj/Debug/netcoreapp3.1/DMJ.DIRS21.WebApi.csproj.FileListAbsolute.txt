@@ -1,0 +1,120 @@
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.exe
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csprojAssemblyReference.cache
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.AssemblyInfoInputs.cache
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.AssemblyInfo.cs
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.RazorTargetAssemblyInfo.cache
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DMJ.DIRS21.WebApi.StaticWebAssets.Manifest.cache
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DMJ.DIRS21.WebApi.StaticWebAssets.xml
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.deps.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.runtimeconfig.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.runtimeconfig.dev.json
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csproj.CopyComplete
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.dll
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.pdb
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.genruntimeconfig.cache
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csproj.CoreCompileInputs.cache
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csprojAssemblyReference.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.AssemblyInfoInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.AssemblyInfo.cs
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.exe
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.deps.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.runtimeconfig.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.runtimeconfig.dev.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DMJ.DIRS21.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DMJ.DIRS21.WebApi.StaticWebAssets.xml
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\DMJ.DIRS21.WebApi.styles.css
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.csproj.CopyComplete
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DIRS21.WebApi\obj\Debug\netcoreapp3.1\DMJ.DIRS21.WebApi.genruntimeconfig.cache

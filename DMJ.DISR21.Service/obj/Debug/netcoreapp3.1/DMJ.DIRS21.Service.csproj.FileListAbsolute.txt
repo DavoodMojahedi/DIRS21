@@ -1,0 +1,32 @@
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.deps.json
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.dll
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.pdb
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+D:\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csprojAssemblyReference.cache
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.AssemblyInfoInputs.cache
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.AssemblyInfo.cs
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csproj.CopyComplete
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+D:\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csproj.CoreCompileInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csprojAssemblyReference.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.AssemblyInfoInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.AssemblyInfo.cs
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csproj.CoreCompileInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.deps.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Service.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.DataAccess.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Service\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Service.csproj.CopyComplete

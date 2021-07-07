@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DIRS21\\DMJ.DISR21.Service\\DMJ.DISR21.Service.csproj": {}
+  },
+  "projects": {
+    "F:\\DIRS21\\DMJ.DISR21.Service\\DMJ.DISR21.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DIRS21\\DMJ.DISR21.Service\\DMJ.DISR21.Service.csproj",
+        "projectName": "DMJ.DISR21.Service",
+        "projectPath": "F:\\DIRS21\\DMJ.DISR21.Service\\DMJ.DISR21.Service.csproj",
+        "packagesPath": "C:\\Users\\Davood Mojahedi\\.nuget\\packages\\",
+        "outputPath": "F:\\DIRS21\\DMJ.DISR21.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Davood Mojahedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

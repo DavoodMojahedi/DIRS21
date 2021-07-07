@@ -1,0 +1,18 @@
+D:\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.deps.json
+D:\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+D:\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.csprojAssemblyReference.cache
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.AssemblyInfoInputs.cache
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.AssemblyInfo.cs
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.csproj.CoreCompileInputs.cache
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+D:\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.deps.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.csprojAssemblyReference.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.AssemblyInfoInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.AssemblyInfo.cs
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.csproj.CoreCompileInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Common\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb

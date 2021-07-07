@@ -1,0 +1,24 @@
+D:\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.deps.json
+D:\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+D:\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+D:\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+D:\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csprojAssemblyReference.cache
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.AssemblyInfoInputs.cache
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.AssemblyInfo.cs
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csproj.CoreCompileInputs.cache
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csproj.CopyComplete
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+D:\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.deps.json
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\bin\Debug\netcoreapp3.1\DMJ.DIRS21.Common.pdb
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csprojAssemblyReference.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.AssemblyInfoInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.AssemblyInfo.cs
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csproj.CoreCompileInputs.cache
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.csproj.CopyComplete
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.dll
+C:\Users\Davood Mojahedi\Downloads\Compressed\dirs21\DMJ.DISR21.Model\obj\Debug\netcoreapp3.1\DMJ.DIRS21.Model.pdb

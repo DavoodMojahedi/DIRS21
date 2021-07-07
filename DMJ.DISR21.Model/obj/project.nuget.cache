@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXlWc7N2+tYvt76TW8q6c2xs5W+trZ4N/5w98Vv0IGjAAtBE79zfu2rE6Gir177wrKGxZPGTrRUcrH/1wxm8ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davood Mojahedi\\Downloads\\Compressed\\dirs21\\DMJ.DISR21.Model\\DMJ.DIRS21.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Davood Mojahedi\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
+    "C:\\Users\\Davood Mojahedi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
